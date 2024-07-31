@@ -15,3 +15,6 @@ chatapp-main/.env
 # OS-specific files
 .DS_Store
 **/.DS_Store
+
+# Ignore uploads directory
+chatapp-main/frontend/public/uploads/
