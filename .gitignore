@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+chatapp-main/frontend/node_modules/
+
+# Logs
+chatapp-main/*.log
+
+# Environment variables
+chatapp-main/.env
+
+# Build output
+/dist
+/build
+
+# OS-specific files
+.DS_Store
+**/.DS_Store
